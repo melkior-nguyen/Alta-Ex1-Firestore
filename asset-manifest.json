@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Alta-Ex1-Firestore/static/css/main.eb41c18e.css",
+    "main.js": "/Alta-Ex1-Firestore/static/js/main.6f1055c0.js",
+    "static/js/787.ac626cde.chunk.js": "/Alta-Ex1-Firestore/static/js/787.ac626cde.chunk.js",
+    "index.html": "/Alta-Ex1-Firestore/index.html",
+    "main.eb41c18e.css.map": "/Alta-Ex1-Firestore/static/css/main.eb41c18e.css.map",
+    "main.6f1055c0.js.map": "/Alta-Ex1-Firestore/static/js/main.6f1055c0.js.map",
+    "787.ac626cde.chunk.js.map": "/Alta-Ex1-Firestore/static/js/787.ac626cde.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb41c18e.css",
+    "static/js/main.6f1055c0.js"
+  ]
+}
