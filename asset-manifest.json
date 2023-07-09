@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Alta-Ex1-Firestore/static/css/main.eb41c18e.css",
+    "main.css": "/Alta-Ex1-Firestore/static/css/main.fe689302.css",
     "main.js": "/Alta-Ex1-Firestore/static/js/main.c46875c8.js",
     "static/js/787.ac626cde.chunk.js": "/Alta-Ex1-Firestore/static/js/787.ac626cde.chunk.js",
     "index.html": "/Alta-Ex1-Firestore/index.html",
-    "main.eb41c18e.css.map": "/Alta-Ex1-Firestore/static/css/main.eb41c18e.css.map",
+    "main.fe689302.css.map": "/Alta-Ex1-Firestore/static/css/main.fe689302.css.map",
     "main.c46875c8.js.map": "/Alta-Ex1-Firestore/static/js/main.c46875c8.js.map",
     "787.ac626cde.chunk.js.map": "/Alta-Ex1-Firestore/static/js/787.ac626cde.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb41c18e.css",
+    "static/css/main.fe689302.css",
     "static/js/main.c46875c8.js"
   ]
 }
